@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 Sou, Paulo Marinato, desenvolvedor Front-End apaixonado por transformar ideias em realidade através do código. Acredito que o desenvolvimento vai além de simplesmente escrever linhas de código, por isso, priorizo participar desde a concepção da ideia até a resolução de problemas.
 
