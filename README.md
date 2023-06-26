@@ -8,6 +8,9 @@ Estou sempre em busca de novos desafios e aprendizados, por isso, estou aberto a
 
 Vamos construir coisas incríveis juntos!
 
+
+## Linguagens e Tecnologias
+
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
 <img src="./images/html-5.svg" width="32" height="32" />
 </a>
