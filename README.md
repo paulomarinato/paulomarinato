@@ -33,7 +33,7 @@ Vamos construir coisas incríveis juntos!
 </a>
 
 <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-<img src="./images/GitHub.png" width="32" height="32" />
+<img src="./images/GitHub2.png" width="32" height="32" />
 </a>
 
 <a href="https://git-scm.com" target="_blank" rel="noreferrer">
