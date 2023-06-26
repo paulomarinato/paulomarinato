@@ -2,7 +2,7 @@
 
 Sou Paulo Marinato Desenvolvedor Android com ênfase em promover uma excelente integração entre usuário e plataforma. Hoje, meu foco está nas tecnologias KOTLIN e JAVA, com conhecimento em Clean Architecture MVVM e Testes unitários, para extrair ao máximo de potência e a flexibilidade dessas linguagens.
 
-Estou cursando a faculdade de Desenvolvimento e Análise de Sistemas e tenho experiência em FrontEnd (HTML, CSS e JavaScript). Combinar minhas habilidades em desenvolvimento de aplicativos Android e FrontEnd com os aprendizados da faculdade, me proporciona uma base sólida em conceitos e práticas essenciais para a construção de  interfaces de alta qualidade com soluções mais completas e coerentes.
+Tenho experiência em FrontEnd (HTML, CSS e JavaScript). Combinar minhas habilidades em desenvolvimento de aplicativos Android e FrontEnd, me proporciona uma base sólida em conceitos e práticas essenciais para a construção de  interfaces de alta qualidade com soluções mais completas e coerentes.
 
 Ademais, possuo formação em técnica em química e trabalhei por mais de 12 anos na indústria. Ao longo dessa jornada, evoluir em muitos aspectos pessoais e adquiri experiência sólida em controle de qualidade, PCP, supervisor de estoque e logística. Trago experiências com sistemas ERP como: TOTVS módulo industrial, comercial e SAP.
 
