@@ -6,10 +6,15 @@ Formação Acadêmia em Desenvolvimento e Análise de Sistemas, em andamento. Po
 
 Possuo experiência/conhecimento em:
 ▪ Conhecimento na criação de aplicativos, seguindo os princípios da Clean Architecture e utilizando a arquitetura MVVM (Model-View-ViewModel).
+
 ▪ Conhecimento na implementação de componentes de arquitetura, como ViewModel, LiveData e Data Binding, para criar aplicativos robustos, escaláveis e de fácil manutenção.
+
 ▪ Experiência no consumo de APIs utilizando Retrofit e Gson, realizando chamadas eficientes e efetivamente transformando as respostas JSON em objetos utilizáveis no aplicativo.
+
 ▪ Conhecimento na escrita de testes unitários utilizando frameworks como JUnit e Mockito, garantindo a qualidade do código e a funcionalidade correta dos aplicativos.
+
 ▪ Experiência no uso de ferramentas de controle de versão, como Git, para colaboração eficiente em equipes de desenvolvimento.
+
 ▪ Proficiência no desenvolvimento de aplicações Android que seguem os princípios SOLID e as melhores práticas de programação orientada a objetos (POO).
 
 Possuo formação em técnica em química e trabalhei por muitos na indústria. Ao longo dessa jornada, evoluir em muitos aspectos pessoais e adquiri experiência sólida em controle de qualidade, PCP, supervisor de estoque e logística. Trago experiências com sistemas ERP como: TOTVS e SAP.
