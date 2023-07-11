@@ -4,21 +4,6 @@ Caros,
 Sou Paulo Marinato, desenvolvedor Android com ênfase em promover uma excelente integração entre usuário e plataforma. Hoje, meu foco está nas tecnologias KOTLIN e JAVA, com conhecimento em Clean Architecture MVVM e Testes unitários, para extrair ao máximo de potência e a flexibilidade dessas linguagens.
 Formação Acadêmia em Desenvolvimento e Análise de Sistemas, em andamento. Possuo experiência em FrontEnd (HTML, CSS e JavaScript). Ao combinar minhas habilidades em desenvolvimento de aplicativos Android e FrontEnd com os aprendizados da faculdade, proporciona uma base sólida em conceitos e práticas essenciais para a construção de interfaces de alta qualidade com soluções mais completas e coerentes.
 
-Possuo experiência/conhecimento em:
-
-▪ Conhecimento na criação de aplicativos, seguindo os princípios da Clean Architecture e utilizando a arquitetura MVVM (Model-View-ViewModel).
-
-▪ Conhecimento na implementação de componentes de arquitetura, como ViewModel, LiveData e Data Binding, para criar aplicativos robustos, escaláveis e de fácil manutenção.
-
-▪ Experiência no consumo de APIs utilizando Retrofit e Gson, realizando chamadas eficientes e efetivamente transformando as respostas JSON em objetos utilizáveis no aplicativo.
-
-▪ Conhecimento na escrita de testes unitários utilizando frameworks como JUnit e Mockito, garantindo a qualidade do código e a funcionalidade correta dos aplicativos.
-
-▪ Experiência no uso de ferramentas de controle de versão, como Git, para colaboração eficiente em equipes de desenvolvimento.
-
-▪ Proficiência no desenvolvimento de aplicações Android que seguem os princípios SOLID e as melhores práticas de programação orientada a objetos (POO).
-
-
 Possuo formação em técnica em química e trabalhei por muitos na indústria. Ao longo dessa jornada, evoluir em muitos aspectos pessoais e adquiri experiência sólida em controle de qualidade, PCP, supervisor de estoque e logística. Trago experiências com sistemas ERP como: TOTVS e SAP.
 Estou sempre em busca de novos desafios e aprendizados, por isso, estou aberto a oportunidades de trabalho e colaborações. Se você está interessado em trabalhar em projetos inovadores, com foco na resolução de problemas e em oferecer uma experiência excepcional aos usuários, adoraria conversar!
 
