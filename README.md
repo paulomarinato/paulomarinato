@@ -5,7 +5,10 @@ Sou Paulo Marinato, desenvolvedor Android com ênfase em promover uma excelente 
 Formação Acadêmia em Desenvolvimento e Análise de Sistemas, em andamento. Possuo experiência em FrontEnd (HTML, CSS e JavaScript). Ao combinar minhas habilidades em desenvolvimento de aplicativos Android e FrontEnd com os aprendizados da faculdade, proporciona uma base sólida em conceitos e práticas essenciais para a construção de interfaces de alta qualidade com soluções mais completas e coerentes.
 
 Possuo formação em técnica em química e trabalhei por muitos na indústria. Ao longo dessa jornada, evoluir em muitos aspectos pessoais e adquiri experiência sólida em controle de qualidade, PCP, supervisor de estoque e logística. Trago experiências com sistemas ERP como: TOTVS e SAP.
-Estou sempre em busca de novos desafios e aprendizados, por isso, estou aberto a oportunidades de trabalho e colaborações. Se você está interessado em trabalhar em projetos inovadores, com foco na resolução de problemas e em oferecer uma experiência excepcional aos usuários, adoraria conversar!
+
+Estou sempre em busca de novos desafios e aprendizados, por isso, estou aberto a oportunidades de trabalho e colaborações em projetos desafiadores. 
+
+Se você está interessado em trabalhar com projetos inovadores e com foco na resolução de problemas oferecendo uma experiência excepcional aos usuários, adoraria conversar!
 
 Vamos construir coisas incríveis juntos!
 Att,
