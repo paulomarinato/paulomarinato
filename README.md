@@ -1,17 +1,16 @@
 ### Caros,
 
-Sou Paulo Marinato, desenvolvedor Android com ênfase em promover uma excelente integração entre usuário e plataforma. Hoje, meu foco está nas tecnologias KOTLIN e JAVA, com conhecimento em Clean Architecture MVVM e Testes unitários, para extrair ao máximo de potência e a flexibilidade dessas linguagens.
-Formação Acadêmia em Desenvolvimento e Análise de Sistemas, em andamento. Possuo experiência em FrontEnd (HTML, CSS e JavaScript). Ao combinar minhas habilidades em desenvolvimento de aplicativos Android e FrontEnd com os aprendizados da faculdade, proporciona uma base sólida em conceitos e práticas essenciais para a construção de interfaces de alta qualidade com soluções mais completas e coerentes.
-
-Possuo formação em técnica em química e trabalhei por muitos na indústria. Ao longo dessa jornada, evoluir em muitos aspectos pessoais e adquiri experiência sólida em controle de qualidade, PCP, supervisor de estoque e logística. Trago experiências com sistemas ERP como: TOTVS e SAP.
-
-Estou sempre em busca de novos desafios e aprendizados, por isso, estou aberto a oportunidades de trabalho e colaborações em projetos desafiadores. 
-
-Se você está interessado em trabalhar com projetos inovadores e com foco na resolução de problemas oferecendo uma experiência excepcional aos usuários, adoraria conversar!
+Sou um desenvolvedor apaixonado por transformar ideias em soluções tecnológicas inovadoras. Minha jornada me levou do mundo do estoque à liderança técnica e ao desenvolvimento mobile, onde me encontrei e floresci. Com domínio em Android e Kotlin, adoro criar aplicativos robustos e escaláveis, priorizando a arquitetura limpa e a experiência do usuário. Minhas habilidades abrangem desde consumo de APIs até a criação de interfaces envolventes, e estou sempre em busca de desafios que me permitam crescer e inovar.
 
 Vamos construir coisas incríveis juntos!
 Att,
 Paulo Marinato.
+
+### Contatos
+📞 Celular: 027-98897-4222
+📧 E-mail: paulomarinato1@gmail.com
+💼 LinkedIn: [linkedin.com/in/paulo-marinato/](https://www.linkedin.com/in/paulo-marinato/)
+🌐 GitHub: [github.com/paulomarinato](https://github.com/paulomarinato)
 
 
 ## Linguagens e Tecnologias
