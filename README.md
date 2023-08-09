@@ -7,6 +7,7 @@ Att,
 Paulo Marinato.
 
 ### Contatos
+
 📞 Celular: 027-98897-4222
 📧 E-mail: paulomarinato1@gmail.com
 💼 LinkedIn: [linkedin.com/in/paulo-marinato/](https://www.linkedin.com/in/paulo-marinato/)
