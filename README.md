@@ -4,6 +4,7 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções tecnológic
 
 Vamos construir coisas incríveis juntos!
 Att,
+
 Paulo Marinato
 
 ### Contatos
