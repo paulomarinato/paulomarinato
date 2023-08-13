@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor apaixonado por transformar ideias em soluções tecnológicas inovadoras. Minha jornada me levou do mundo do estoque à liderança técnica e ao desenvolvimento mobile, onde me encontrei e floresci. Com domínio em Android e Kotlin, adoro criar aplicativos robustos e escaláveis, priorizando a arquitetura limpa e a experiência do usuário. Minhas habilidades abrangem desde consumo de APIs até a criação de interfaces envolventes, e estou sempre em busca de desafios que me permitam crescer e inovar.
 
-Estou aberto a oportunidades 
+Estou aberto a oportunidades de trabalho e colaborações em projetos inovadores, com foco na resolução de problemas e em oferecer uma experiência excepcional aos usuários, adoraria conversar!
 
 
 Vamos construir coisas incríveis juntos!
