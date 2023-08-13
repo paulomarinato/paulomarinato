@@ -5,6 +5,9 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções tecnológic
 Estou aberto a oportunidades de trabalho e colaborações em projetos inovadores, com foco na resolução de problemas e em oferecer uma experiência excepcional aos usuários, adoraria conversar!
 
 
+Vamos construir coisas incríveis juntos!
+Att,
+
 Paulo Marinato
 
 ### Contatos
