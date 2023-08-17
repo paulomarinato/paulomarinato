@@ -10,7 +10,7 @@ Vamos construir coisas incríveis juntos!
 
 Paulo Marinato
 
-### Contatos
+
 
 📞 Celular: 027-98897-4222
 
