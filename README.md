@@ -8,7 +8,7 @@ Estou aberto a oportunidades de trabalho e colaborações em projetos inovadores
 Vamos construir coisas incríveis juntos!
 
 
-Paulo Marinato
+Paulo Marinato.
 
 ### Contatos
 
