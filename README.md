@@ -1,12 +1,12 @@
 ### Caros,
 
-Sou um desenvolvedor apaixonado por transformar ideias em soluções tecnológicas inovadoras. Minha jornada me levou do mundo do estoque à liderança técnica e ao desenvolvimento mobile, onde me encontrei e floresci. Com domínio em Android e Kotlin, adoro criar aplicativos robustos e escaláveis, priorizando a arquitetura limpa e a experiência do usuário. Minhas habilidades abrangem desde consumo de APIs até a criação de interfaces envolventes, e estou sempre em busca de desafios que me permitam crescer e inovar.
+Sou um desenvolvedor apaixonado por transformar ideias em soluções tecnológicas inovadoras, com uma forte ênfase no mundo da blockchain. Minha jornada me levou do mundo do estoque à liderança técnica e ao desenvolvimento mobile, onde encontrei uma verdadeira vocação. Com domínio em tecnologias de blockchain e contratos inteligentes, adoro criar soluções descentralizadas robustas e seguras, priorizando a arquitetura escalável e a experiência do usuário.
 
-Estou aberto a oportunidades de trabalho e colaborações em projetos inovadores, com foco na resolução de problemas e em oferecer uma experiência excepcional aos usuários, adoraria conversar!
+Minhas habilidades abrangem desde a implementação de smart contracts até a integração de APIs blockchain e a construção de interfaces envolventes. Estou sempre em busca de desafios que me permitam explorar novas fronteiras tecnológicas e inovar no espaço da blockchain.
 
+Estou aberto a oportunidades de trabalho e colaborações em projetos inovadores, com foco na criação de soluções descentralizadas e em oferecer uma experiência excepcional aos usuários. Adoraria conversar sobre como podemos construir o futuro da tecnologia juntos!
 
-Vamos construir coisas incríveis juntos!
-
+Vamos transformar o mundo da blockchain e criar algo incrível!
 
 Paulo Marinato.
 
