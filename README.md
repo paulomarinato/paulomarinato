@@ -1,6 +1,6 @@
 ### Caros,
 
-Sou um desenvolvedor apaixonado por transformar ideias em soluções tecnológicas inovadoras, com uma forte ênfase no mundo da blockchain. Minha jornada me levou do mundo do estoque à liderança técnica e ao desenvolvimento mobile, onde encontrei uma verdadeira vocação. Com domínio em tecnologias de blockchain e contratos inteligentes, adoro criar soluções descentralizadas robustas e seguras, priorizando a arquitetura escalável e a experiência do usuário.
+Sou um desenvolvedor com experiência em transformar conceitos em soluções tecnológicas de impacto, com foco em desenvolvimento Android e blockchain, aplicando princípios de arquitetura limpa para entregar interfaces intuitivas e de alta performance. Recentemente, ampliei meu escopo para o desenvolvimento de soluções em blockchain, utilizando APIs e transações em redes como a Stellar. Sempre em busca de inovações, acredito no poder do desenvolvimento tecnológico para resolver problemas reais.
 
 Minhas habilidades abrangem desde a implementação de smart contracts até a integração de APIs blockchain e a construção de interfaces envolventes. Estou sempre em busca de desafios que me permitam explorar novas fronteiras tecnológicas e inovar no espaço da blockchain.
 
