@@ -25,23 +25,37 @@ Estou pronto para continuar aplicando minhas habilidades e criar soluções que 
 🌐 GitHub: [github.com/paulomarinato](https://github.com/paulomarinato)
 
 
+
 ## Linguagens e Tecnologias
+
+
+
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+  <img src="./images/rust-logo.png" width="32" height="32" alt="Rust Logo" />
+</a>
+
+
+
+<a href="https://soliditylang.org" target="_blank" rel="noreferrer">
+  <img src="./images/solidity-logo.png" width="32" height="32" alt="Solidity Logo" />
+</a>
+
+
+
+<a href="https://www.blockchain.com" target="_blank" rel="noreferrer">
+  <img src="./images/blockchain-logo.png" width="32" height="32" alt="Blockchain Logo" />
+</a>
+
+
+
+<a href="https://ethereum.org" target="_blank" rel="noreferrer">
+  <img src="./images/ethereum-logo.png" width="32" height="32" alt="Ethereum Logo" />
+</a>
+
 
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
 <img src="./images/Kotlin.jpg" width="32" height="32" />
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
-<img src="./images/java.png" width="32" height="32" />
-</a>
-
-<a href="https://git-scm.com" target="_blank" rel="noreferrer">
-<img src="./images/GitHub2.png" width="32" height="32" />
-</a>
-
-<a href="https://git-scm.com" target="_blank" rel="noreferrer">
-<img src="./images/git.svg" width="32" height="32" />
 </a>
 
 
