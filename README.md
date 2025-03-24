@@ -26,39 +26,14 @@ Estou pronto para continuar aplicando minhas habilidades e criar soluções que 
 
 
 
+<!-- 
 ## Linguagens e Tecnologias
-
-
-
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-  <img src="./images/rust-logo.png" width="32" height="32" alt="Rust Logo" />
-</a>
-
-
-
-<a href="https://soliditylang.org" target="_blank" rel="noreferrer">
-  <img src="./images/solidity-logo.png" width="32" height="32" alt="Solidity Logo" />
-</a>
-
-
-
-<a href="https://www.blockchain.com" target="_blank" rel="noreferrer">
-  <img src="./images/blockchain-logo.png" width="32" height="32" alt="Blockchain Logo" />
-</a>
-
-
-
-<a href="https://ethereum.org" target="_blank" rel="noreferrer">
-  <img src="./images/ethereum-logo.png" width="32" height="32" alt="Ethereum Logo" />
-</a>
-
-
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
 <img src="./images/Kotlin.jpg" width="32" height="32" />
 </a>
 
-
+-->
 
 <div align='center'>
 <a height="140em" href="http://www.github.com/paulomarinato"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paulomarinato&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
