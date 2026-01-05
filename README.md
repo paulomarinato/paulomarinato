@@ -4,7 +4,7 @@ Sou desenvolvedor com foco em Web3, blockchain e desenvolvimento de produtos, at
 
 Sou fundador da Treants Technological Solutions, onde atuo na estruturação de soluções tecnológicas, automação, produtos digitais e projetos Web3, conectando tecnologia, estratégia e impacto real. Possuo background em gestão e liderança no setor industrial, o que fortalece minha visão de processos, escalabilidade e entrega.
 
-Atualmente sou graduando em Desenvolvimento e Análise de Sistemas e pós-graduando em Blockchain, Tokenização e Segurança de Smart Contracts pela NEARX, com foco em construir soluções descentralizadas, seguras e escaláveis.
+Atualmente sou graduado em Desenvolvimento e Análise de Sistemas e pós-graduando em Blockchain, Tokenização e Segurança de Smart Contracts pela NEARX, com foco em construir soluções descentralizadas, seguras e escaláveis.
 
 “Raízes fortes no desenvolvimento tecnológico.”
 
